@@ -26,3 +26,7 @@ footer {
 body{
 background: #8BC34A;
 }
+li{list-style: none;}
+button.c3 {background: #689F38;}
+div.c2 {text-align: center}
+button.c1 {background: #004D40;}
