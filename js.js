@@ -28,7 +28,7 @@ function ask() {
 }
 
 function credits() {
-    speak("I was created by nuclear scientists to hack into computers... Task Completed ")
+    speak("I was created by monkeys on a typewriter ")
 }
 var aks = 0,
     img = document.getElementById("img"),
